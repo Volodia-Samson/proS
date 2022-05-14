@@ -1,11 +1,11 @@
 ul>li [checked]{
     margin-left: 50px;
 }
-label::first-letter{
+label{
     text-transform: uppercase;
 }
 
-#special{
+#special::first-letter{
     font-size: 100px;
     color: green;
 }
