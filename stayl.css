@@ -1,7 +1,7 @@
 ul>li [checked]{
     margin-left: 50px;
 }
-label{
+label::first-letter{
     text-transform: uppercase;
 }
 
